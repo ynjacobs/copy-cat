@@ -1,0 +1,157 @@
+header{
+    background-color: #06D6A0;
+    display: block;
+    padding: 0 20px;
+    height: 60px;
+    font-size: 1.2em;
+    width: 100%;
+}
+
+h2{
+    margin: 0;
+}
+
+.title{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top{
+    text-align: right;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 20px;
+}
+
+
+.img1{
+    max-width: 100%;
+}
+
+
+main{
+    margin: 0 150px;
+}
+
+.welcome{
+    background-color: #26547C;
+	color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    position: relative;
+}
+
+.welcome h1{
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    font-size: 30px;
+    
+}
+
+.message{
+    display: inline-block;
+width: 39%;
+}
+
+.pic{
+    display: inline-block;
+   width: 59%;
+}
+.meow{
+    text-align: right;
+    display: inline;
+    
+}
+
+
+
+.cats{
+    background-color: #FFD166;
+	color:black;
+    padding: 30px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    
+    text-align: left;
+}
+
+.products{
+    background-color: #F2F2F2;
+	color:black;
+    padding: 30px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+ 
+    text-align: left;
+    
+}
+
+li{
+   
+    display: inline-block;
+    width: 25%;
+    margin: 10px;
+}
+
+.img2{
+    display: inline-block;
+    border-color: black;
+    border-style: solid;
+    width: 100%;
+}
+
+.img3{
+    display: inline-block;
+    border-color: black;
+    border-style: solid;
+    width: 100%;
+}
+
+.img4{
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 100%;
+}
+
+.img5{
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 100%;
+}
+
+.img6{
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    width: 100%;
+}
+.fun{
+    background-color: #26547C;
+	color:white;
+    padding: 30px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    text-align: left;
+    
+    
+}
+
+.bottom{
+    word-spacing: 100px;
+    text-align: center;
+    color: #EF476F;
+}
+
+footer{
+    background-color: #06D6A0;
+    display: block;
+    text-align: right;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
